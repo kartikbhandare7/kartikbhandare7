@@ -1,5 +1,24 @@
-# 💫 About Me:
-Building scalable full-stack web applications with React, Node.js, Express, MongoDB, and FastAPI. Currently exploring AI-powered applications using LangGraph and LLMs while focusing on clean architecture and modern UI/UX.<br>Open-source projects, AI-powered web applications, full-stack SaaS products, and developer tools built with React, Node.js, FastAPI, or modern JavaScript/TypeScript.<br>System design, cloud deployment (AWS/Docker/Kubernetes), scalable backend architectures, and advanced AI agent workflows with LangGraph.<br>Advanced backend engineering, system design, Next.js, FastAPI, LangGraph, LLM integration, and cloud-native development.<br>Java, JavaScript, React, Node.js, Express, MongoDB, REST APIs, Socket.IO, FastAPI, DSA, SQL, and building end-to-end full-stack applications.<br>I enjoy turning complex ideas into simple, production-ready applications.
+## 👨‍💻 About Me
+
+I'm a passionate Software Developer with a strong foundation in **Java** and a growing interest in building scalable, real-world applications. I enjoy solving challenging problems, writing clean and maintainable code, and continuously exploring new technologies that help me become a better engineer.
+
+My primary expertise lies in **Java**, where I've developed a solid understanding of object-oriented programming, data structures & algorithms, and backend development concepts. Alongside Java, I'm actively expanding my skill set by studying the **MERN Stack (MongoDB, Express.js, React, and Node.js)** to build modern, full-stack web applications from the ground up.
+
+I'm also learning **Python**, particularly for backend development, automation, and AI-powered applications. Recently, I've been exploring technologies like **FastAPI**, **LangGraph**, and **Large Language Models (LLMs)** to understand how intelligent systems are designed and integrated into production-ready software.
+
+### 🚀 What I'm focused on
+
+* Building full-stack web applications with the MERN Stack
+* Strengthening my backend development skills using Java, Node.js, and Python
+* Learning software architecture, REST APIs, authentication, and scalable system design
+* Solving Data Structures & Algorithms problems to improve problem-solving and coding efficiency
+* Exploring AI agents, LLM integrations, and modern developer tools
+
+### 💡 What drives me
+
+I enjoy creating projects that solve real-world problems while continuously improving my understanding of software engineering best practices. Whether it's developing a responsive frontend, designing efficient backend APIs, or experimenting with AI-driven applications, I'm always eager to learn and take on new challenges.
+
+I'm currently looking to connect with developers, contribute to open-source projects, and collaborate on innovative full-stack and AI-based applications while continuing to grow as a software engineer.
 
 
 ## 🌐 Socials:
